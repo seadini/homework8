@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.28310ad4.css",
+    "main.js": "./static/js/main.02bf7e0d.js",
+    "static/media/fiji.jpg": "./static/media/fiji.0f277e37bc7f3cc5492d.jpg",
+    "static/media/bahamas.jpg": "./static/media/bahamas.632a7d4102099828d215.jpg",
+    "static/media/TurksCaicos.jpg": "./static/media/TurksCaicos.a1ef8abbef85482db0dc.jpg",
+    "index.html": "./index.html",
+    "main.28310ad4.css.map": "./static/css/main.28310ad4.css.map",
+    "main.02bf7e0d.js.map": "./static/js/main.02bf7e0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28310ad4.css",
+    "static/js/main.02bf7e0d.js"
+  ]
+}
